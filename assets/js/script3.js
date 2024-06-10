@@ -12,4 +12,4 @@ document.getElementById('submit').onclick = function() {
         resultText = 'password incorrecto';
     }
     document.getElementById('result').textContent = resultText;
-};
+}

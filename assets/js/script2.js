@@ -1,4 +1,4 @@
-function calcularStickers() {
+document.getElementById('submit').onclick = function() {
 
     const narutoCount = parseInt(document.getElementById('narutoCount').value) || 0;
     const sasukeCount = parseInt(document.getElementById('sasukeCount').value) || 0;
