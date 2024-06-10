@@ -1,0 +1,12 @@
+.contenedor{
+    display: flex;
+    max-width: 100%;
+    gap: 30px;
+    
+}
+.contenedor img {
+    width: 400px; 
+    height: 600px; 
+    object-fit: cover; 
+    border: 5px solid black;
+  }
